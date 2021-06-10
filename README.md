@@ -1,4 +1,1 @@
-# Flip-Card-Matching
-# Try it now :- https://flipcardmatching.netlify.app
-
-An experiment to build simple card flip and matching game using Web (HTML, CSS and JS)
+Hi Campk12, It's me Satyanchal Choudhary. I am very happy that you have organized Unocoder in which youth of India can show their talent. I have also participated in this and I made this flip-card-matching game. It took me about 8 days to make it, 3 days to make the frontend and 5 days to make the backend. But I am happy that this game is ready now. 
