@@ -1,4 +1,8 @@
-/* PLEASE DON'T COPY THESE CODE*/
+/* Hi Campk12 😀👋
+It took me 5 days to write these codes
+Twitter :- @iamsatyanchal
+Instagram :- @iamsatyanchal
+*/
 
 function _defineProperty(obj, key, value) {if (key in obj) {Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true });} else {obj[key] = value;}return obj;}
 class App extends React.Component {
@@ -105,14 +109,7 @@ class App extends React.Component {
           React.createElement(Card, { card: card, key: index, onCardClick: this.handleCardClick }));
 
       })))));
-
-
-
-
-  }}
-
-
-
+ }}
 
 const Card = props => {
   let image;
